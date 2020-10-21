@@ -1,3 +1,5 @@
+This project is hosted on https://gogle-clone-11d59.web.app/ using Firebase
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
